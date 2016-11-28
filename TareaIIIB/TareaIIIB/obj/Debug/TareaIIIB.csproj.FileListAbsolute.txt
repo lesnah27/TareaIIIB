@@ -1,0 +1,10 @@
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\bin\Debug\TareaIIIB.exe.config
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\bin\Debug\TareaIIIB.exe
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\bin\Debug\TareaIIIB.pdb
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.csprojResolveAssemblyReference.cache
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.Form1.resources
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.Properties.Resources.resources
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.csproj.GenerateResource.Cache
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.exe
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.pdb
+C:\Users\Hansel\Desktop\proyecto\registro\TareaIIIB\TareaIIIB\obj\Debug\TareaIIIB.Form2.resources
